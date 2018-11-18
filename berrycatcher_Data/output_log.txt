@@ -1,0 +1,37 @@
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730M (ID=0x1290)
+    Vendor:   NVIDIA
+    VRAM:     997 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Berry Basket\berrycatcher_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Berry Basket\berrycatcher_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Berry Basket\berrycatcher_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Berry Basket\berrycatcher_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Berry Basket\berrycatcher_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Berry Basket\berrycatcher_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Berry Basket\berrycatcher_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Berry Basket\berrycatcher_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.296 seconds
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Berry Basket\berrycatcher_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Berry Basket\berrycatcher_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 18.214268 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 129.689850 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 409.
+Total: 0.449322 ms (FindLiveObjects: 0.044476 ms CreateObjectMapping: 0.022808 ms MarkObjects: 0.359989 ms  DeleteObjects: 0.021287 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.828318 ms
+
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 236.
+Total: 0.350106 ms (FindLiveObjects: 0.028510 ms CreateObjectMapping: 0.015965 ms MarkObjects: 0.272178 ms  DeleteObjects: 0.032691 ms)
+
