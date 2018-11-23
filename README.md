@@ -21,9 +21,13 @@ To play on your Android phone, install [berrycatcher.apk](https://github.com/Ado
   <img src="https://github.com/AdoraNwodo/berry-catcher/blob/master/Picture4.png" height="360"/>
 </p>
 
+
+
 ## License
 
 MIT. Please see the [license file](https://github.com/AdoraNwodo/berry-catcher/blob/master/LICENSE) for more information.
+
+
 
 ## Contributing
 
